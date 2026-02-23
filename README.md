@@ -1,3 +1,1 @@
-## Assignment
-Complete pencil functionality
-Add panning and zooming functionality
+this the like an clone of excelidraw
